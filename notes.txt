@@ -1,0 +1,33 @@
+core java
+
+oops
+->encapsulation
+collections
+
+Core Application - Console Based (5 hours)
+Table 
+Class (collection of objects)
+ ->properties
+ ->methods
+Objects 
+ ->real world entity
+ Syntax:
+	class_name object_name = new class_name();
+Methods
+	Syntax :
+		return_type method_name(parmeter_type parmeter_name..){
+			// Method body
+		} 
+Object
+ ->toString()
+OOPS
+ ->Encpsulation
+ ->Inheritance
+ ->Interface
+Collections
+ ->List
+ ->Map
+Exception Handling
+JDBC
+
+
