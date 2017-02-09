@@ -1,6 +1,6 @@
 package com.janani.urbanapp.model;
 
-public class Course {
+public class Course { 
 
 	private Integer id;
 	private String name;

@@ -1,4 +1,4 @@
-CREATE DATABASE urban_db;
+CREATE DATABASE urban_db; 
 
 CREATE TABLE course
 (

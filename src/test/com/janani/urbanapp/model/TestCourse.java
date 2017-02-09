@@ -1,6 +1,6 @@
 package test.com.janani.urbanapp.model;
 
-import com.janani.urbanapp.model.Course;
+import com.janani.urbanapp.model.Course; 
 
 public class TestCourse {
 	public static void main(String[] args) {
