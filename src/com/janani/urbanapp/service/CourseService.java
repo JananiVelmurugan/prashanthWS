@@ -1,4 +1,4 @@
-package com.janani.urbanapp.dao.service;
+package com.janani.urbanapp.service;
 
 import com.janani.urbanapp.dao.CourseDAO;
 import com.janani.urbanapp.exception.ServiceException;
@@ -15,7 +15,7 @@ public class CourseService {
 		try {
 			validator.validateSave(course);
 			dao.save(course);
-		} catch (ValidationException e) {
+		} catch (Exception e) {
 			throw new ServiceException(e.getMessage(), e);
 		}
 	}
